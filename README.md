@@ -14,61 +14,45 @@
 
 ---
 
-## 🔧 Technical Skills
-
-- **Languages**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS  
-- **Frameworks/Tools**: React.js, React Native, FastAPI, Node.js, Git, Linux  
-- **Libraries**: NumPy, Pandas, Seaborn, Matplotlib  
-- **Databases**: MySQL, MongoDB  
-- **Other**: Data Visualization, DSA, NLP, Microservice Architecture
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [D-CODE-RED](https://github.com/suryarao551/D-CODE-RED)
-**AI-Powered News Analysis & Fact-Checking Platform**  
-Built a full-stack web and browser extension tool for real-time news verification using:
-- FastAPI microservices for RAG-based fact-checking, sentiment, and emotion analysis
-- Advanced LLMs (Gemini, Ollama, HuggingFace) and NLP tools like spaCy, NLTK
-
-### 📊 JEE Mains 2024 Ranks vs College Analysis
-**Data Analysis and Visualization Project**
-- Cleaned and analyzed JoSAA 2024 data to help aspirants understand trends
-- Created visualizations using Matplotlib, Seaborn, and Pandas
-
-### 🏥 LLM Performance Comparison in Healthcare
-**AI Evaluation & Full Stack Development**
-- Built a mobile app integrating multiple LLMs (LLaMA, OpenAI, Gemini)
-- Compared performance across modalities using microservices, React Native, and MongoDB
-
----
-
 ## 🎯 Co-Curricular Activities
 
 - 🛠 **Technical Lead**, IEEE Student Council, IIIT Dharwad
   - Conducted Linux workshops for 50+ peers
   - Authored cybersecurity newsletters
-- 🧠 **Quiz Host**, Inquizitive
-  - Organized tech quizzes for 100+ participants
-  - National semi-finalist in Monty Quiz (Unstop)
 
 ---
+## 🛠️ Tech Stack
 
-## 📜 Certifications
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-- ✅ Introduction to Statistics – *Stanford (Coursera)*
-- ✅ SQL – *HackerRank*
-- 🏅 100 Days Coding Badge – *LeetCode*
-- ⭐ CodeChef 1400+ Rating
 
+## 📊 GitHub Stats
+
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha08-prog&show_icons=true&theme=radical)
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha08-prog&layout=compact&theme=radical)
 
 ## 📬 Get in Touch
 
 - ✉️ Email: [atharva08@gmail.com](mailto:atharva08@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-agrawal-172421330/)
-- 🖥️ [GitHub](https://github.com/alpha08-prog)
 
 ---
 
