@@ -10,7 +10,7 @@
 - 💡 Strong foundation in **Problem Solving**, **Competitive Programming**, and **Data Analysis**
 - 📈 Currently deep-diving into modern **JavaScript frameworks** and **AI-powered applications**
 - 🗣️ Known for **public speaking**, **effective communication**, and **leadership** as a Student Council Technical Lead at IEEE IIIT Dharwad
-- 🏆 Achieved **1400+ CodeChef Rating** and earned the **100 Days Badge on LeetCode**
+- 🏆 Achieved **3 Star Rating on CodeChef** and earned the **100 Days Badge on LeetCode**
 
 ---
 
@@ -49,9 +49,10 @@
 
 ## 📊 GitHub Stats
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha08-prog&show_icons=true&theme=radical)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha08-prog&layout=compact&theme=radical)
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha08-prog&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha08-prog&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ## 📬 Get in Touch
 
