@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
-- 🔍 Exploring the intersections of **AI**, **LLMs**, and **Full Stack Development**
-- 💡 Strong foundation in **Problem Solving**, **Competitive Programming**, and **Data Analysis**
-- 📈 Currently deep-diving into modern **JavaScript frameworks** and **AI-powered applications**
-- 🗣️ Known for **public speaking**, **effective communication**, and **leadership** as a Student Council Technical Lead at IEEE IIIT Dharwad
-- 🏆 Achieved **3 Star Rating on CodeChef** and earned the **100 Days Badge on LeetCode**
+- 🚀 Building **AI-powered & LLM-based applications** with strong engineering foundations  
+- 🔍 Interested in **RAG systems, NLP, multimodal AI**, and **scalable backend design**
+- 🧩 Strong background in **Data Structures & Algorithms** and **competitive programming**
+- 🗣️ Experienced in **technical leadership & communication** (Technical Lead – IEEE IIIT Dharwad)
+- 🏆 **3★ CodeChef**, **1600+ LeetCode rating**, **LeetCode 100 Days Badge**
 
 ---
 
@@ -46,17 +46,20 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
+### 🔹 Contribution Graph (Most Reliable)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha08-prog&theme=github_dark)
 
-## 📊 GitHub Stats
+### 🔹 Language Distribution
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alpha08-prog&theme=github_dark)
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha08-prog&show_icons=true&theme=radical&cache_seconds=1800)
+### 🔹 Productivity & Activity
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpha08-prog&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha08-prog&layout=compact&theme=radical&cache_seconds=1800)
 
 
 ## 📬 Get in Touch
 
-- ✉️ Email: [atharva08@gmail.com](mailto:atharva08@gmail.com)
+- ✉️ Email: [athrava08@gmail.com](mailto:athrava08@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-agrawal-172421330/)
 
 ---
