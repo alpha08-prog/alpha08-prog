@@ -6,9 +6,9 @@
 
 ## 🧠 About Me
 
-- 🚀 Building **AI-powered & LLM-based applications** with strong engineering foundations  
-- 🔍 Interested in **RAG systems, NLP, multimodal AI**, and **scalable backend design**
-- 🧩 Strong background in **Data Structures & Algorithms** and **competitive programming**
+- 🚀 Building **AI-powered & Full Stack Web Applications** with strong engineering foundations  
+- 🔍 Interested in Full-Stack Development, **scalable backend APIs**, and modern frontend frameworks
+- 🧩 Strong background in **Data Structures & Algorithms** and building high-performance web applications
 - 🗣️ Experienced in **technical leadership & communication** (Technical Lead – IEEE IIIT Dharwad)
 - 🏆 **3★ CodeChef**, **1600+ LeetCode rating**, **LeetCode 100 Days Badge**
 
