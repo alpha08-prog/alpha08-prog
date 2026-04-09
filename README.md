@@ -54,7 +54,7 @@ const atharva: Developer = {
 |:-----------:|:----------------------:|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) | **1600+ Rating** · 100 Days Badge 🔥 |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | **3★** Rated |
-| 🏆 Hackathons | Hacksagon 2025, Hack2Future 2.0 2026,, Buildathon 2026 |
+| 🏆 Hackathons |Hacksagon 2025, Hack2Future 2.0, Buildathon 2026 |
 | 🛡️ IEEE | Technical Lead – IIIT Dharwad |
 
 </div>
@@ -77,7 +77,7 @@ Multi-agent architecture powering a next-gen Security Operations Center. Feature
 ---
 
 ### 🟣 Attack Path Analyzer — Kubernetes Security
-> *Heck2Future 2.0 · Cloud-Native Security*
+> *Hack2Future 2.0 · Cloud-Native Security*
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alpha08-prog)
 
@@ -181,28 +181,26 @@ RBAC-enabled office management platform with full CI/CD, container orchestration
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alpha08-prog&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=alpha08-prog&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars,prs,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile" height="160em"/>
 
 </div>
 
+<div align="center">
+
+| 🏆 | Achievement |
+|:--:|:-----------|
+| ⭐ | **3★ CodeChef** — Consistent competitive programmer |
+| 🔥 | **LeetCode 100 Days Badge** — Daily problem-solving discipline |
+| 📈 | **1600+ LeetCode Rating** — Top problem solver |
+| 🥇 | **Nokia Hackathon** — Built Kubernetes Attack Path Analyzer |
+| 🛡️ | **Buildathon 2026** — Agentic AI SOC Platform (CyberSaviour) |
+| 🎤 | **IEEE Technical Lead** — Led Linux workshops for 50+ students |
+
 ---
-
-## 📚 Currently Learning & Exploring
-
-```
-🔐 Advanced Kubernetes Security & RBAC Hardening
-🤖 Agentic AI Systems & Multi-Agent Orchestration
-📊 Graph Neural Networks for Threat Intelligence
-🦀 Rust for Systems Programming & High-Perf Backends
-🔭 Reinforcement Learning for Cybersecurity (CybORG / HPPO)
-```
-
----
-
 
 ## 🌐 Co-Curricular & Leadership
 
@@ -211,8 +209,8 @@ RBAC-enabled office management platform with full CI/CD, container orchestration
 | Role | Organization | Impact |
 |:-----|:------------|:-------|
 | ⚡ **Technical Lead** | IEEE Student Council – IIIT Dharwad | Workshops for 50+ peers |
-| 📰 **Author** | IEEE Cybersecurity Newsletter | Authored editions on threat landscape |
-| 🛠️ **Hackathon Participant** | Hacksagon 2025, Hack2Future 2.0, Buildathon 2026 | Security & AI tools |
+| 🎙️ **Quiz Host** | IEEE & College Tech Events | Hosted TCS TechBytes, inter-college tech quizzes & more |
+| 🛠️ **Hackathon Participant** |Hacksagon 2025, Hack2Future 2.0, Buildathon 2026 | Security & AI tools |
 | 🧩 **Competitive Programmer** | CodeChef, LeetCode | 3★ · 1600+ · 100 Days Badge |
 
 </div>
